@@ -17,9 +17,5 @@ You can download the raw dataset from the official IEEE GRSS Data and Algorithm 
 - **Houston University Dataset (2013)**: https://machinelearning.ee.uh.edu/?page_id=459
 The preprocessed data can be accessed at https://drive.google.com/drive/folders/12UqB7_FYU5UuLGEUekOWvc01Ra5e6n8_?usp=drive_link
 
-> **Note:** Due to licensing restrictions, the dataset is **not** included in this repository.  
 > After downloading, place the files into the `data/` folder.
 
----
-
-## 📁 Repository Structure
